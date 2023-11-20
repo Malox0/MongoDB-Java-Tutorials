@@ -14,7 +14,6 @@
       <module name="data" target="11" />
       <module name="mongodb-connection" target="11" />
       <module name="mongodb-insert" target="11" />
-      <module name="mongodb-java" target="11" />
       <module name="MongoDB-Java-Tutorials" target="11" />
       <module name="mongodb-query" target="11" />
     </bytecodeTargetLevel>
